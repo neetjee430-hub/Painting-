@@ -1,0 +1,6 @@
+{
+  "name": "Pro Mix Studio",
+  "description": "A fluid painting app with realistic dripping physics and voice-assisted color mixing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
